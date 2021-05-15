@@ -1,0 +1,12 @@
+/* pink color style */
+.couple-section .couple i.fa-heart,
+.couple-section .couple h3,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color: #fb839e;
+}
+
+.couple-section .social-links i,
+.couple-section .couple img{
+    border-color: #fb839e;
+}
